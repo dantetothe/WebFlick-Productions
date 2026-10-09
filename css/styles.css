@@ -1,0 +1,28 @@
+body{
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333333;            /* Dark gray text color */
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 20px;
+}
+img {
+  width: 210px;
+  height: auto; /* Keeps the image from squishing */
+}
+h1{
+      font-family: "Your Font Name", sans-serif;
+
+}
+footer{
+    font-weight:bold;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 24px;          /* Internal spacing: top/bottom, left/right */
+    margin: 10px 0;
+    background-color: #521d94;   /* Button background color */
+    color: #ffffff;              /* Text color */
+    font-weight: 420;            /* Semi-bold text */
+    border-radius: 10px;
+}
